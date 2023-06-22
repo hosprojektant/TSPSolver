@@ -17,7 +17,7 @@ VM22775, problem of 22775 locations with 2% error. The optimization of my algori
 ## GUI
 ![image](https://github.com/hosprojektant/TSPSolver/assets/45818202/3d3c0647-ec2a-4d2b-a79c-ec7a2214d898)
 
-GUI with problem berlin52 optimal solution
+GUI with problem berlin52 optimal solution.
 
 ## Run
 Instalation is Simple you have to downloand Windows/Linux version and install gcc on linux or add dll files into win32 dir on Windows. After you can run MainWindow/.exe.
