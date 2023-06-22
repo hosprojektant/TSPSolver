@@ -11,10 +11,12 @@ Axis x represents the number of locations, while axis y represents the solution 
 Axis x represents the number of locations, while axis y represents the error rate in percentage (%).
 
 ![image](https://github.com/hosprojektant/TSPSolver/assets/45818202/c1c4d56b-919a-4acc-9731-dcaf67bfb500)
+
 VM22775, problem of 22775 locations with 2% error. The optimization of my algorithm is enabled.
 
 ## GUI
 ![image](https://github.com/hosprojektant/TSPSolver/assets/45818202/3d3c0647-ec2a-4d2b-a79c-ec7a2214d898)
+
 GUI with problem berlin52 optimal solution
 
 ## Run
